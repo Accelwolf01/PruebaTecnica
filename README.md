@@ -55,6 +55,11 @@ curl --location 'http://localhost:8080/auth/login' \
 }'
 ```
 
+```sh
+curl --location 'http://localhost:8080/auth/me' \
+--header 'Authorization: Bearer AccessTokenAqui'
+```
+
 ## Explicación del Guardado
 
 El guardado del log de login es bastante simple:
