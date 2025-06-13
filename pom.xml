@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.users</groupId>
-	<artifactId>login</artifactId>
+	<artifactId>PruebaTecnica</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>login</name>
 	<description>Proyecto Rest Login</description>
